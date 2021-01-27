@@ -1,3 +1,7 @@
+# Create youtube downloader using python gui module tkinter
+# pip install pytube
+# pip install pillow 
+
 import tkinter as tk 
 from tkinter import *
 from PIL import ImageTk, Image
